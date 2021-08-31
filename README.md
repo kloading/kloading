@@ -6,6 +6,6 @@
 - 🔮 Stitching together APIs from cloud providers to automate infrastructure and gain visibility
 
 #### Favorite Languages and Tools
-- Prefer to use Go and Python for building products
-- Academic experience writing C/C++
+- Go and Python for building products
+- C and Java in academic environments
 - DevOps: Kubernetes, AWS, GitHub Actions
